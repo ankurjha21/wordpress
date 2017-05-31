@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/ankur/.cache/upstart/at-spi2-registryd.log" 2017-5-30-22:0:0
+"/home/ankur/.cache/upstart/gnome-keyring-gpg.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/unity-settings-daemon.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/im-config.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/gnome-session-Unity.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/window-stack-bridge.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/update-notifier-release.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/gnome-keyring-ssh.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/indicator-power.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/indicator-bluetooth.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/ssh-agent.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/indicator-sound.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/dbus.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/unity7.log" 2017-5-30-22:23:36
+"/home/ankur/.cache/upstart/unity-panel-service.log" 2017-5-30-22:0:0
